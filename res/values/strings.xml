@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">searchBar</string>
+    <string name="action_settings">Settings</string>
+    <string name="search_hint">Type in destination</string>
+    <string name="action_sat">Satellite Map</string>
+    <string name="action_norm">Norm Map</string>
+
+</resources>
